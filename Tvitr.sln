@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tvitr", "Tvitr\Tvitr.csproj", "{E56F285C-BC55-4C26-AD6A-80E7766273BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56F285C-BC55-4C26-AD6A-80E7766273BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56F285C-BC55-4C26-AD6A-80E7766273BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56F285C-BC55-4C26-AD6A-80E7766273BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56F285C-BC55-4C26-AD6A-80E7766273BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1765F1-A399-435E-B5F3-1141C77B9A91}
+	EndGlobalSection
+EndGlobal
